@@ -1,0 +1,58 @@
+.form-table th {
+width: 300px;
+}
+
+.button-primary.submit-btn {
+margin-left:92px;
+}
+.button-secondary.not-user-btn {
+margin-left: 12px;
+}
+
+.infcrwds-root {
+  direction: ltr !important;
+}
+
+.buttons-container {
+width: 501px;
+}
+.button-secondary.past-orders-btn {
+float: right;
+}
+
+.inf-register-title {
+font-size: 18;
+}
+
+.inf-btnmsg {
+  line-height: 30px;
+}
+
+.infcrwds-terms {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.infcrwds-root .paper {
+  background-color: #ffffff;
+  padding: 20px;
+  border-radius: 5px;
+}
+.infcrwds-root .dashboard-link {
+  margin-bottom: 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.infcrwds-root .inf-button {
+  color: #ffffff;
+  background-color: #53A318;
+  padding: 10px;
+  border-radius: 5px;
+  text-decoration: none;
+  cursor: pointer;
+  -webkit-box-shadow: 0px 3px 12px 0px rgba(0,0,0,0.16);
+  -moz-box-shadow: 0px 3px 12px 0px rgba(0,0,0,0.16);
+  box-shadow: 0px 3px 12px 0px rgba(0,0,0,0.16);
+}
